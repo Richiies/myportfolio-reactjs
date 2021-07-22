@@ -6,7 +6,7 @@ learned till now.
 <br/>
 <div style="text-align: center;">
 
-<img src="https://assets.ccbp.in/frontend/content/react-js/portfolio-output.gif" alt="portfolio-output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+<img src="q" alt="portfolio-output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 
 </div>
 
@@ -132,7 +132,7 @@ The app must have the following functionalities
 <div style="background-color: #0f172a ; width: 150px; padding: 10px; color: white">Hex: #0f172a</div>
 <div style="background-color: #1e293b ; width: 150px; padding: 10px; color: white">Hex: #1e293b</div>
 <div style="background-color: #475569 ; width: 150px; padding: 10px; color: white">Hex: #475569</div>
-
+#### font
 #### Font-families
 
 - Roboto
